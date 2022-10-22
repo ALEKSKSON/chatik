@@ -14,6 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+  <h2> тыкай </h2>
 </template>
 
 <style scoped>
